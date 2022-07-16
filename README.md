@@ -1,5 +1,5 @@
 
-# Rhythm-MusicPlayer 🎶
+# Rhythm-MusicPlayer🎶
 
 Rhythm is a external files music-player which allows you to go forward, backward, play, pause , shuffle and repeat a song with simple UI. 
 It's an mini project in android to read data from external storage and use that data to perform operations.
