@@ -1,10 +1,11 @@
 
 # Rhythm-MusicPlayer🎶
 
-Rhythm is a external files music-player which allows you to go forward, backward, play, pause , shuffle and repeat a song with simple UI. 
-It's an mini project in android to read data from external storage and use that data to perform operations.
+Rhythm is an external file music-player which allows you to go forward, backward, play, pause , shuffle and repeat a song with simple UI. 
+It is a mini project developed in Java to read data from external storage and use that data to perform operations.<br>
+The goal of this project is to implementing a music-player app that works across multiple form factors and provide a consistent user experience on Android phones.
 
-## Screenshots 🖼️
+## Screenshots 
 
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/86725419/179343724-f26478c8-73e7-49d1-b590-e9c68f41aa4d.png" width="300" height="600"/>
@@ -26,10 +27,14 @@ It's an mini project in android to read data from external storage and use that 
 </p>
 
 ## Features ✨
-- Play your music by Songs, Albums and Artists Search.
+- Play Your Music by Songs, Albums and Artists Search.
 - Custom Color Gradient According To Each Song Image.
-- Play Offline Songs.
+- Play Songs Offline.
 - Background Playing songs.
-- Songs sort by Name, Size and Date.
-- Decent UI with New Material Widgets.
+- Sort songs by Name, Size and Date.
+- Indicator fast scrolling.
+- Decent UI with New Material themes.
 
+## Working on
+- UI improvements
+- Performance improvements
